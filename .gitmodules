@@ -1,0 +1,6 @@
+[submodule "video_generation/base"]
+	path = video_generation/base
+	url = https://github.com/SpatialVID/base
+[submodule "video_generation/FVD"]
+	path = video_generation/FVD
+	url = https://github.com/zhizhou57/FVD
